@@ -1,0 +1,115 @@
+.testimonial-cards{
+    display: flex!important;
+
+}
+/* .slick-prev,
+.slick-next {
+    color: #000 !important;
+    top: 117%!important;
+    border: 1px solid #aaa !important;
+    padding: 9px !important;
+    border-radius: 50% !important;
+}
+.slick-prev {
+        left: 43% !important;
+    }
+
+    .slick-next {
+        right: 43% !important;
+    } */
+@media(max-width:560px){
+.slick-prev,
+    .slick-next {
+        color: #000000b0 !important;
+        bottom: -20% !important;
+        top: 115% !important;
+        border: 1px solid #aaa !important;
+        padding: 7px !important;
+        border-radius: 50% !important;
+    }
+
+    .slick-prev {
+       left: 70%!important;
+    }
+
+    .slick-next {
+        right: 5% !important;
+    }
+}
+@media(min-width:561px) {
+.slick-prev,
+    .slick-next {
+        color: #000000b0 !important;
+        bottom: -20% !important;
+        top: 115% !important;
+        border: 1px solid #aaa !important;
+        padding: 10px !important;
+        border-radius: 50% !important;
+    }
+
+    .slick-prev {
+        left: 70% !important;
+    }
+
+    .slick-next {
+        right: 5% !important;
+    }
+}
+@media(min-width:921px) {
+.slick-prev,
+    .slick-next {
+        color: #000000b0 !important;
+        bottom: -20% !important;
+        top: 110% !important;
+        border: 1px solid #aaa !important;
+        padding: 20px !important;
+        border-radius: 50% !important;
+    }
+
+    .slick-prev {
+        left: 46% !important;
+    }
+
+    .slick-next {
+        right: 46% !important;
+    }
+}
+
+@media(min-width:1200px) {
+.slick-prev,
+    .slick-next {
+        color: #000000b0 !important;
+        bottom: -20% !important;
+        top: 110% !important;
+        border: 1px solid #aaa !important;
+        padding: 20px !important;
+        border-radius: 50% !important;
+    }
+
+    .slick-prev {
+        left: 44% !important;
+    }
+
+    .slick-next {
+        right: 44% !important;
+    }
+}
+@media(min-width:1500px) {
+ .slick-prev,
+    .slick-next {
+        color: #000000b0 !important;
+        bottom: -20% !important;
+        top: 118% !important;
+        border: 1px solid #aaa !important;
+        padding: 20px !important;
+        border-radius: 50% !important;
+    }
+
+    .slick-prev {
+        left: 46% !important;
+    }
+
+    .slick-next {
+        right: 46% !important;
+    }
+}
